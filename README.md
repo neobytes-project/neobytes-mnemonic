@@ -1,9 +1,9 @@
 BIP39 Mnemonics for Neobytes
 =======
 
-[![NPM Package](https://img.shields.io/npm/v/neobytes-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/neobytes-mnemonic)
+[![NPM Package](https://img.shields.io/npm/v/neobytes-mnemonic-terracoin.svg?style=flat-square)](https://www.npmjs.org/package/neobytes-mnemonic)
 
-A module for [bitcore-dash](https://github.com/dashpay/bitcore-dash) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
+A module for [bitcore-neobytes](https://github.com/neobytes-project/bitcore-neobytes) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ var xpriv = code.toHDPrivateKey();
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/dashpay/bitcore-dash/blob/master/CONTRIBUTING.md) on the main bitcore-dash repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/neobytes-project/bitcore-neobytes/blob/master/CONTRIBUTING.md) on the main bitcore-neobytes repo for information about how to contribute.
 
 ## License
 
