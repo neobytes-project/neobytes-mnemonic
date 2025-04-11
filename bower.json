@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-mnemonic",
-  "main": "./bitcore-mnemonic-dash.min.js",
+  "name": "neobytes-mnemonic",
+  "main": "./bitcore-mnemonic.min.js",
   "version": "1.1.3",
-  "homepage": "https://github.com/dashpay/bitcore-mnemonic-dash",
+  "homepage": "https://github.com/neobytes-project/neobytes-mnemonic",
   "authors": [
     "BitPay"
   ],
@@ -11,7 +11,7 @@
     "globals"
   ],
   "keywords": [
-    "dash",
+    "neobytes",
     "bitcore",
     "satoshi",
     "mnemonic"
