@@ -1,7 +1,7 @@
 BIP39 Mnemonics for Neobytes
 =======
 
-[![NPM Package](https://img.shields.io/npm/v/neobytes-mnemonic-terracoin.svg?style=flat-square)](https://www.npmjs.org/package/neobytes-mnemonic)
+[![NPM Package](https://img.shields.io/npm/v/neobytes-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/neobytes-mnemonic)
 
 A module for [bitcore-neobytes](https://github.com/neobytes-project/bitcore-neobytes) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
